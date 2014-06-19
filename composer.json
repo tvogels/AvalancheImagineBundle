@@ -5,13 +5,6 @@
     "homepage": "https://github.com/tvogels/AvalancheImagineBundle",
     "type": "symfony-bundle",
     "license": "MIT",
-    "repositories":[
-        {
-            "type":"git",
-            "url":"git://github.com/avalanche123/Imagine.git"
-        }
-    ],
-
     "authors": [
         {
             "name": "Bulat Shakirzyanov",
@@ -26,7 +19,7 @@
     ],
     "require": {
         "symfony/framework-bundle": "2.*",
-        "imagine/Imagine": "v0.5.0"
+        "imagine/imagine": "0.7.*@dev"
     },
     "require-dev": {
         "makasim/temp-file": "dev-master"

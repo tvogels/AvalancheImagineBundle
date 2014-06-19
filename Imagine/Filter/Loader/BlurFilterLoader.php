@@ -3,7 +3,7 @@
 namespace Avalanche\Bundle\ImagineBundle\Imagine\Filter\Loader;
 
 use Imagine\Image\ManipulatorInterface;
-use Vit\EendrachtBundle\Filter\Blur
+use Vit\EendrachtBundle\Filter\Blur;
 
 class BlurFilterLoader implements LoaderInterface
 {
